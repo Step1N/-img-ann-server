@@ -21,7 +21,7 @@ Step - Upload image's input file
 ### How do I get set up? ###
 
 * Clone Repo
-* Setup mongo DB and set env variables DB_USER, DB_USER_PWD, DB_NAME
+* Setup mongo DB and set env variables DB_USER, DB_USER_PWD, DB_NAME, DB_HOST
 * Install requirement.txt dependencies ```python -m pip install -r requirements.txt```
 * ``make run`` command to run service
 * http://127.0.0.1:5000
